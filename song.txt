@@ -1,7 +1,11 @@
 Sword and spear
+<<<<<<< HEAD
 Wall of shields
 Standing strong
 On this their chosen battle field
 
 Form the lines
 Shield by shield
+=======
+Wall of shields
+>>>>>>> parent of 0bf7c73 (add two more lines to the song)
